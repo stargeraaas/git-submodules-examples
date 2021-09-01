@@ -1,0 +1,3 @@
+[submodule "ui/spaceCats"]
+	path = ui/spaceCats
+	url = https://github.com/zoxdrey/spaceCats.git
